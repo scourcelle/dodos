@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.921aeaf3.js",
-    "static/js/787.8f15f361.chunk.js": "/react-gh-pages/static/js/787.8f15f361.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.921aeaf3.js.map": "/react-gh-pages/static/js/main.921aeaf3.js.map",
-    "787.8f15f361.chunk.js.map": "/react-gh-pages/static/js/787.8f15f361.chunk.js.map"
+    "main.css": "/dodos/static/css/main.073c9b0a.css",
+    "main.js": "/dodos/static/js/main.c262866d.js",
+    "static/js/787.8f15f361.chunk.js": "/dodos/static/js/787.8f15f361.chunk.js",
+    "static/media/logo.svg": "/dodos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dodos/index.html",
+    "main.073c9b0a.css.map": "/dodos/static/css/main.073c9b0a.css.map",
+    "main.c262866d.js.map": "/dodos/static/js/main.c262866d.js.map",
+    "787.8f15f361.chunk.js.map": "/dodos/static/js/787.8f15f361.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.921aeaf3.js"
+    "static/js/main.c262866d.js"
   ]
 }
